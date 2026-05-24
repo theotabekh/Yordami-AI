@@ -14,7 +14,7 @@ import anthropic
 #  SOZLAMALAR — Railway Variables bo'limiga
 #  TELEGRAM_TOKEN va ANTHROPIC_KEY kiriting
 # =============================================
-TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
+TELEGRAM_TOKEN = os.environ["8912905591:AAHoQSnDnedF_SHQvZpMAgCOP1HsGUXr1mY"]
 ANTHROPIC_KEY  = os.environ["ANTHROPIC_KEY"]
 
 # =============================================
